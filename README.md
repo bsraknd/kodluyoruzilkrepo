@@ -6,6 +6,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncelikle projeyi clonelayın. [Kodluyoruz ilk repo](https://github.com/bsraknd/kodluyoruzilkrepo.git)
 
- 
+ git clone https://github.com/bsraknd/kodluyoruzilkrepo.git
 
 
